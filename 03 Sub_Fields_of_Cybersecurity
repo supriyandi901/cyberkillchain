@@ -1,1 +1,33 @@
+Sub-Bidang Keamanan Siber
+Keamanan siber adalah konsep yang mewakili keamanan kita di dunia digital. Untuk memastikan keamanan kita di ranah digital, keamanan siber mencakup banyak sub-bidang penting. Setiap area adalah domain khusus dan bagian penting dalam melindungi sistem kami.
+Mari kita lihat lebih dekat sub-bidang penting keamanan siber.
+
+- Keamanan Aplikasi
+Keamanan aplikasi berfokus pada memastikan keamanan aplikasi dari tahap pengembangan dan seterusnya. Area ini termasuk mengidentifikasi dan memperbaiki bug perangkat lunak dan kerentanan keamanan lainnya. Tes keamanan dan standar pengkodean yang aman adalah komponen penting dari bidang ini.
+
+- Keamanan Aplikasi Web
+Keamanan aplikasi web berfokus pada mendeteksi, mencegah, dan mengurangi ancaman terhadap aplikasi berbasis web. Di bidang ini, kerentanan seperti SQL Injection, XSS, CSRF, dan IDOR termasuk yang paling umum. Keamanan aplikasi web sangat penting untuk melindungi data pengguna, menjaga kinerja aplikasi, dan menjaga reputasi perusahaan.
+Tes penetrasi rutin (pentest) dilakukan untuk mengidentifikasi dan mengatasi kerentanan keamanan dalam aplikasi web.
+
+- Keamanan Jaringan
+Keamanan jaringan melibatkan perlindungan sumber daya jaringan untuk mencegah, mendeteksi, dan merespons ancaman dan serangan berbahaya. Teknologi seperti firewall, sistem deteksi intrusi (IDS), sistem pencegahan intrusi (IPS), dan jaringan pribadi virtual (VPN) digunakan di bidang ini.
+Keamanan jaringan sangat penting untuk memastikan transmisi data yang aman dan mencegah akses yang tidak sah.
+
+- Rekayasa Balik
+Rekayasa balik melibatkan analisis perangkat lunak, perangkat, atau sistem untuk memahami cara kerjanya, baik secara statis maupun dinamis. Bidang ini dapat digunakan untuk menemukan kerentanan keamanan, menganalisis malware, dan melewati lisensi atau mekanisme perlindungan lainnya.
+
+- Keamanan Cloud
+Keamanan cloud memastikan perlindungan data, aplikasi, dan infrastruktur dalam layanan komputasi awan. Ini termasuk manajemen identitas dan akses (IAM), enkripsi data, firewall, dan protokol keamanan berbasis cloud lainnya. Keamanan cloud memastikan bahwa data disimpan, diproses, dan ditransmisikan dengan aman di cloud.
+
+- Keamanan Aplikasi Seluler
+Keamanan aplikasi seluler mencakup langkah-langkah keamanan khusus untuk perangkat dan aplikasi seluler. Ini termasuk perlindungan terhadap malware, mencegah kebocoran data, dan menerapkan teknik enkripsi end-to-end.
+
+- Keamanan IoT
+Keamanan IoT (Internet of Things) melibatkan memastikan keamanan perangkat pintar, sensor, dan perangkat IoT lainnya. Area ini mencakup keamanan perangkat, perlindungan data, dan keamanan jaringan. Keamanan IoT sangat penting untuk melindungi ekosistem IoT yang berkembang dari ancaman.
+
+- Forensik Digital
+Forensik digital mencakup prosedur teknis dan hukum untuk menyelidiki dan menganalisis kejahatan dunia maya. Bidang ini berfokus pada praktik seperti pemulihan data, pengumpulan bukti elektronik, dan investigasi kejahatan dunia maya. Forensik digital memainkan peran penting dalam investigasi kriminal dan proses hukum.
+
+- Intelijen Ancaman
+Intelijen ancaman melibatkan pengumpulan dan analisis informasi tentang ancaman dunia maya. Informasi ini digunakan untuk mencegah, mendeteksi, dan menanggapi ancaman. Intelijen ancaman memberi tim keamanan kemampuan untuk mengantisipasi serangan dan mengambil tindakan proaktif.
 
